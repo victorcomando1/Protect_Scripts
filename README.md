@@ -1,4 +1,4 @@
-| Nome     | Idade | Cidade      |
+| Script     | Idade | Cidade      |
 |----------|-------|------------|
 | Victor   | 25    | São Paulo  |
 | Adriana  | 30    | Rio de Janeiro |
